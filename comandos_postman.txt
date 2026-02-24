@@ -1,0 +1,9 @@
+http://127.0.0.1:5000/Carro
+
+body - raw = json
+
+{
+    "modelo": "fusca 2.0",
+    "marca": Volkswagen",
+    "ano": 1975
+}
