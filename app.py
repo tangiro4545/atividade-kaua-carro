@@ -1,6 +1,6 @@
 from flask import Flask
 from db import db
-from routes.carro_routs import carro_routes
+from routes.carro_routes import carro_routes
 
 app = Flask(__name__)
 
